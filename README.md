@@ -50,4 +50,9 @@ Vercel Deployment Guide
  → Import Project → Select your GitHub repo
 3. Click Deploy 🎉
 
+### Vercel Links
+https://school-demo-hazel.vercel.app/addSchool 
+
+https://school-demo-hazel.vercel.app/showSchools 
+
 
